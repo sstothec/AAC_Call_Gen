@@ -7,6 +7,6 @@ Current SHA256 checksum: fe2e1db824f5f278910aaeb1ebc8a34b1cc1776c8b7dfa830d7c058
 
 To use:
 
-Install Python (Anaconda is good)
-Install packages gTTs and playsound (pip install gTTs; pip install playsound)
-Run script (e.g. through a .bat)
+1. Install Python (Anaconda is good)
+2. Install packages gTTs and playsound (e.g. pip install gTTs; pip install playsound)
+3. Run script (e.g. through a .bat, example bat file included)
