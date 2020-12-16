@@ -19,5 +19,6 @@ Certain actions/bugs may result in files being leftover.
 Disclaimer:
 UARSA
 User Assumes Responsibility for Script Application
+
 NO LIABILITY FOR DAMAGES.
 In no event shall the Author be liable for any special, consequential, incidental, direct or indirect damages whatsoever (including and without limitation, damages to hardware, software, mental health, pecuniary losses, fireballs, etc.) arising out of the use of or inability to use this product, even if the Author is aware of the possibility of such damages and known defects.
