@@ -1,6 +1,7 @@
 # AAC_Call_Gen
-Current SHA256 checksum: d8b0d2c309b0f8347d5f6a8890697361faf2f9754194e6c29c6f84a5e9f8e9c1
 Ver 0.6
+Current .py SHA256 checksum: d8b0d2c309b0f8347d5f6a8890697361faf2f9754194e6c29c6f84a5e9f8e9c1
+Current .exe SHA256 checksum: db9a52955c85ffaa91cd2a415e8bce33a08480bec7667d48dda4b0255a5b8307
 Now with exe
 
 Basic aircraft call generator for ATC tower local control training purposes.
