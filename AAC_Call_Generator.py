@@ -7,16 +7,17 @@ import hashlib
 from gtts import gTTS
 from playsound import playsound
 
-version = '0.5a'
-current_path = os.path.dirname(__file__)
-filename = current_path + '/' + os.path.basename(__file__)
-sha256_hash = hashlib.sha256()
-with open(filename,"rb") as f:
-	for byte_block in iter(lambda: f.read(4096),b""):
-		sha256_hash.update(byte_block)
-	sha256_hash = sha256_hash.hexdigest()
+version = '0.6'
+#current_path = os.path.dirname(__file__)
+#filename = current_path + '/' + os.path.basename(__file__)
+#sha256_hash = hashlib.sha256()
+#with open(filename,"rb") as f:
+#	for byte_block in iter(lambda: f.read(4096),b""):
+#		sha256_hash.update(byte_block)
+#	sha256_hash = sha256_hash.hexdigest()
 
-print("\nVersion:",  version, "\nSHA256:", sha256_hash, "\n")
+#print("\nVersion:",  version, "\nSHA256:", sha256_hash, "\n")
+print("\nVersion:",  version)
 delayTime = int(input("Enter a time delay between aircraft in seconds >>>"))
 print("Aircraft delay time:", delayTime)
 ifrDelayTime = int(input("Enter a delay between IFR aircraft in rounds >>>"))
