@@ -1,5 +1,7 @@
 # AAC_Call_Gen
-Current SHA256 checksum: 70ce20c761319b0bf4fc394d74efda5bde114dac742910abc208a79712a7b0b5
+Current SHA256 checksum: d8b0d2c309b0f8347d5f6a8890697361faf2f9754194e6c29c6f84a5e9f8e9c1
+Ver 0.6
+Now with exe
 
 Basic aircraft call generator for ATC tower local control training purposes.
 
