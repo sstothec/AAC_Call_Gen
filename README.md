@@ -20,7 +20,7 @@ C. Install packages gTTs and playsound (e.g. pip install gTTs; pip install plays
 
 D. Run AAC_Call_Generator.py script (e.g. through a .bat, example bat file included)
 
-2. Run download exe from releases page https://github.com/sstothec/AAC_Call_Gen/releases/tag/0.6 and run.
+2. Download exe from releases page https://github.com/sstothec/AAC_Call_Gen/releases/tag/0.6 and run.
 NOTE: The script generates and removes .mp3 files for the voice in the directory you run the script from. 
 Certain actions/bugs may result in files being leftover.
 
