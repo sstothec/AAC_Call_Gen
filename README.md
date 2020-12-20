@@ -14,13 +14,13 @@ Uses google text to speech to read out an aircraft calling in inbound.
 To use either:
 
 1.
-A. Copy the contents of AAC_Call_Generator.py to a text file and change the filename (including file extension) to be whatever you want.
+  A. Copy the contents of AAC_Call_Generator.py to a text file and change the filename (including file extension) to be whatever you want.
 
-B. Install Python (If you're confused, try https://www.anaconda.com/products/individual)
+  B. Install Python (If you're confused, try https://www.anaconda.com/products/individual)
 
-C. Install packages gTTs and playsound (e.g. pip install gTTs; pip install playsound)
+  C. Install packages gTTs and playsound (e.g. pip install gTTs; pip install playsound)
 
-D. Run AAC_Call_Generator.py script (e.g. through a .bat, example bat file included)
+  D. Run AAC_Call_Generator.py script (e.g. through a .bat, example bat file included)
 
 2. Download exe from releases page https://github.com/sstothec/AAC_Call_Gen/releases/tag/0.6 and run.
 NOTE: The script generates and removes .mp3 files for the voice in the directory you run the script from. 
