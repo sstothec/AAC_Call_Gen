@@ -1,5 +1,5 @@
 # AAC_Call_Gen
-Current SHA256 checksum: fe2e1db824f5f278910aaeb1ebc8a34b1cc1776c8b7dfa830d7c0586edf69f29
+Current SHA256 checksum: 70ce20c761319b0bf4fc394d74efda5bde114dac742910abc208a79712a7b0b5
 
 Basic aircraft call generator for ATC tower local control training purposes.
 
@@ -9,7 +9,7 @@ Uses google text to speech to read out an aircraft calling in inbound.
 
 To use:
 
-1. Copy the contents of AAC_Call_Generator.py to a text file and change the filename (including file extension) to be EXACTLY the same.
+1. Copy the contents of AAC_Call_Generator.py to a text file and change the filename (including file extension) to be whatever you want.
 2. Install Python (If you're confused, try https://www.anaconda.com/products/individual)
 3. Install packages gTTs and playsound (e.g. pip install gTTs; pip install playsound)
 4. Run AAC_Call_Generator.py script (e.g. through a .bat, example bat file included)
