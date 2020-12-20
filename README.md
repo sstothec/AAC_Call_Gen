@@ -9,12 +9,14 @@ Uses call signs and reporting points for the Academy Airport along with minor co
 
 Uses google text to speech to read out an aircraft calling in inbound.
 
-To use:
+To use either:
+1.
+A. Copy the contents of AAC_Call_Generator.py to a text file and change the filename (including file extension) to be whatever you want.
+B. Install Python (If you're confused, try https://www.anaconda.com/products/individual)
+C. Install packages gTTs and playsound (e.g. pip install gTTs; pip install playsound)
+D. Run AAC_Call_Generator.py script (e.g. through a .bat, example bat file included)
 
-1. Copy the contents of AAC_Call_Generator.py to a text file and change the filename (including file extension) to be whatever you want.
-2. Install Python (If you're confused, try https://www.anaconda.com/products/individual)
-3. Install packages gTTs and playsound (e.g. pip install gTTs; pip install playsound)
-4. Run AAC_Call_Generator.py script (e.g. through a .bat, example bat file included)
+2. Run download exe from releases page https://github.com/sstothec/AAC_Call_Gen/releases/tag/0.6 and run.
 NOTE: The script generates and removes .mp3 files for the voice in the directory you run the script from. 
 Certain actions/bugs may result in files being leftover.
 
